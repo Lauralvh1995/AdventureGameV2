@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventureGame
+namespace AdventureGame.Database
 {
-    class Program
+    class DatabaseConnection
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }

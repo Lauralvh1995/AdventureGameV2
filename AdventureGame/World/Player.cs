@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventureGame
+namespace AdventureGame.World
 {
-    class Program
+    class Player
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }

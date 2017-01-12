@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdventureGame
 {
-    class Program
+    class Parser
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
